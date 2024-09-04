@@ -1,0 +1,2 @@
+# BlockchainTrainingCenter-Platform-Project
+KSJ_Team_Project_BlockchainTrainingCenter Platform Project 
