@@ -1,2 +1,29 @@
 # BlockchainTrainingCenter-Platform-Project
-KSJ_Team_Project_BlockchainTrainingCenter Platform Project 
+
+## 팀원소개
+| 이름   | 역할        |
+|--------|-------------|
+| 길다현 | 팅잠        |
+| 김영태 | 팀원        |
+| 박주용 | 팀원        |
+| 심영석 | 팀원        |
+| 임경용 | 팀원        |
+
+## 프로젝트배경
+블록체인에 대해 성장이 커지는 지금, 이와 관련된 취약점 마땅히 배울만한 공간이 없음
+그리고 dreamhack 이라는 공간에서는 enterprise 급만 볼수있음 (결제필수) 
+그래서 초보자부터 고급자 까지 쉽고 어려운 문제를 이해하고 풀수있는 공간의 필요성 파악 
+
+## 프로젝트내용
+블록체인 교육에 관련된 분야를 팀원끼리 나눠서 분석하고 교육환경과 실습환경을 구성
+
+## 기술스택
+AWS , HTML , JavaScript, CSS , BootStrap , Nginx
+
+## 프로젝트기간 
+2024.08.05 ~ 2024.08.19
+
+## 추가 설명 사진 및 첨부파일 링크
+https://sarimus.tistory.com/155
+
+
