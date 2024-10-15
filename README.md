@@ -21,7 +21,7 @@
 AWS , HTML , JavaScript, CSS , BootStrap , Nginx
 
 ## 프로젝트기간 
-2024.08.05 ~ 2024.08.19
+2024.08.01 ~ 2024.08.19
 
 ## 추가 설명 사진 및 첨부파일 링크
 https://sarimus.tistory.com/155
